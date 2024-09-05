@@ -38,4 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.УчетнаяПолитика</constants>
 </mdclass:Configuration>

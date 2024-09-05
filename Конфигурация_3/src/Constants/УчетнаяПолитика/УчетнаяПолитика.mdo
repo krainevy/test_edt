@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="54b88405-3238-4d72-b4ae-aefac4919f60">
+  <producedTypes>
+    <managerType typeId="0c6191d5-e328-476a-94d5-9e0bd647e730" valueTypeId="94dbf1ab-7c53-4690-83e6-ac0c02c6bb11"/>
+    <valueManagerType typeId="cbea1923-7771-489d-bde9-0a44a1c46054" valueTypeId="71ecfc65-d90e-414e-abed-887d14bfd947"/>
+    <valueKeyType typeId="ca3ff2a4-f9ec-46ed-88d4-1ed008c2381e" valueTypeId="630e07a3-f033-43f0-a508-4dd12785aa61"/>
+  </producedTypes>
+  <name>УчетнаяПолитика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учетная политика</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
