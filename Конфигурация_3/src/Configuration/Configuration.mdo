@@ -40,4 +40,5 @@
   </languages>
   <constants>Constant.УчетнаяПолитика</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
 </mdclass:Configuration>
