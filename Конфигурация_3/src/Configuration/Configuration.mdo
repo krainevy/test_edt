@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.УчетнаяПолитика</constants>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
